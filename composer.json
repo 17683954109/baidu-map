@@ -1,5 +1,5 @@
 {
-    "name": "her/baidu-map",
+    "name": "17683954109/baidu-map",
     "description": "百度地图 SDK.",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.6",
         "pimple/pimple": "^3.0",
-        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/guzzle": "^6.0",
         "monolog/monolog": "^1.23"
     },
     "require-dev": {
